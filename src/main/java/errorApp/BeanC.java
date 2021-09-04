@@ -1,6 +1,7 @@
-package pl.sda.customers.zadania;
+package errorApp;
 
 
+import errorApp.BeanA;
 import org.springframework.stereotype.Component;
 
 @Component

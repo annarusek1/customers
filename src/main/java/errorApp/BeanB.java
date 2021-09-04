@@ -1,4 +1,4 @@
-package pl.sda.customers.zadania;
+package errorApp;
 
 
 import org.springframework.stereotype.Component;
